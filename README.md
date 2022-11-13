@@ -1,7 +1,7 @@
 # Portfólio : Stéfany Coura Coimbra
 **I am a student of Computer Engineering at Unifei, Itajubá, Brazil. I'm also a Web Developer. I 💖 coffee ☕, pizza 🍕, dogs 🐕 and all the things relationed with technology as well!**
 
-![https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif]
+![Women in Tech](https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif)
 
 ## Education:
 - Graduated at IFMG, Ouro Preto, MG, Brazil, in Integrated Industrial Automation
